@@ -24,7 +24,7 @@ This guide will walk you through the process of setting up and running the GPT C
 Before starting, ensure you have the following installed:
 
 - Python 3.8 or higher
-- 
+  
 ## (Advanced) Prerequisites 
 
 Before you begin, make sure you have the following installed:
